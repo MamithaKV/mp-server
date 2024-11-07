@@ -1,0 +1,37 @@
+fst server deploy
+pachake.json (json-version) il ninn version betA REmove
+then close another cmd
+json file is unstable so can set stable using
+then termil of server = npm i json-server@0.17.4(install)
+package.json  version become (   "json-server": "^0.17.4")
+inside server folder create a new file as index.js
+we have to update script key of package.json file with {"start":"node index.js"} and remove test key
+create .gitignore file, to add module
+(node id used to run js in server file no js file so thatswhy js file create )
+.gitignore file node_modules type
+define steps to run db.json file using json server in index.js
+      in index.js import json-server
+     ( create a server for mediaplayer )
+     (eg:const MPServer=jsonServer.create())
+     in index.js to import node = require('json-server') athoru variablekk store akka
+    node doesnt understnd json so create a middlware to convert json to js
+     (eg:const middleWare=jsonServer.defaults())
+    create a port for executing our app
+    (eg:const PORT = 3000)
+    (eg:const route = jsonServer.router('db.json'))
+    setup route/path for db.json file so that client can make req
+    (eg:MPServer.use(middleWare)
+      MPServer.use(route))
+    use middleware,route inside server
+    MPServer.listen(PORT,()=>{
+    console.log(`mpserver started at port:${PORT} and waiting for client request`);
+    
+})
+    run server using given port
+
+    to execute app have to use (node index.js)
+    can see tha output in localhost:3000
+
+    in terminal run node index.js
+
+    node deploy server render.com

@@ -1,0 +1,78 @@
+{
+  "uploadVideos": [
+    {
+      "id": "3f27",
+      "caption": "kk",
+      "imgUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaazha--biopic-of-a-billion-boys-et00405504-1721571939.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/dljEVygvwG8"
+    },
+    {
+      "caption": "sss",
+      "imgUrl": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7372/1707127777372-i",
+      "youTubeLink": "https://www.youtube.com/embed/dljEVygvwG8",
+      "id": "qBvBATp"
+    }
+  ],
+  "categories": [
+    {
+      "id": "81ee",
+      "categoryName": "tutor",
+      "allVideos": []
+    },
+    {
+      "id": "d7c7",
+      "categoryName": "trailer",
+      "allVideos": [
+        {
+          "caption": "vazhaa",
+          "imgUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaazha--biopic-of-a-billion-boys-et00405504-1721571939.jpg",
+          "youTubeLink": "https://www.youtube.com/embed/dljEVygvwG8",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "categoryName": "trailer",
+      "allVideos": [],
+      "id": "mitKX_s"
+    }
+  ],
+  "history": [
+    {
+      "id": "1f41",
+      "caption": "leotrailer",
+      "youTubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "11/2/2024, 4:20:23 PM GMT+5:30"
+    },
+    {
+      "id": "ae59",
+      "caption": "king of kotha",
+      "youTubeLink": "https://www.youtube.com/embed/dljEVygvwG8",
+      "timeStamp": "11/5/2024, 10:49:42 AM GMT+5:30"
+    },
+    {
+      "id": "6f28",
+      "caption": "css",
+      "youTubeLink": "https://www.youtube.com/embed/1PnVor36_40",
+      "timeStamp": "11/6/2024, 10:21:25 AM GMT+5:30"
+    },
+    {
+      "id": "c679",
+      "caption": "king of kotha",
+      "youTubeLink": "https://www.youtube.com/embed/dljEVygvwG8",
+      "timeStamp": "11/6/2024, 10:30:17 AM GMT+5:30"
+    },
+    {
+      "caption": "kk",
+      "youTubeLink": "https://www.youtube.com/embed/dljEVygvwG8",
+      "timeStamp": "11/6/2024, 7:29:24 PM GMT+5:30",
+      "id": "NXJ9rpD"
+    },
+    {
+      "caption": "sss",
+      "youTubeLink": "https://www.youtube.com/embed/dljEVygvwG8",
+      "timeStamp": "11/6/2024, 7:34:30 PM GMT+5:30",
+      "id": "WJeEJJ8"
+    }
+  ]
+}
